@@ -2,7 +2,8 @@
 name: task-detection-thinking
 description: 未完成任务检测 + 主动思考。自动扫描任务状态，识别异常，生成解决方案，尝试自动修复。
 version: 1.0.0
-author: clawwizard
+author: OpenDolph
+source: https://github.com/OpenDolph/skills/tree/main/task-detection-thinking
 ---
 
 # 任务检测 + 主动思考技能

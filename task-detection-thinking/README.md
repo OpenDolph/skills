@@ -162,4 +162,4 @@ node skills/task-detection-thinking/scripts/detect.js
 
 ## License
 
-MIT © clawwizard
+MIT © OpenDolph

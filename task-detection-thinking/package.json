@@ -1,34 +1,19 @@
 {
-  "name": "@clawwizard/task-detection-thinking",
+  "name": "task-detection-thinking",
   "version": "1.0.0",
   "description": "Incomplete task detection + proactive thinking for OpenClaw agents",
-  "keywords": [
-    "openclaw",
-    "skill",
-    "task-management",
-    "proactive-thinking",
-    "heartbeat",
-    "automation"
-  ],
-  "author": "clawwizard",
+  "keywords": ["openclaw", "skill", "task-management", "proactive-thinking"],
+  "author": "OpenDolph",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jason/task-detection-thinking.git"
+    "url": "https://github.com/OpenDolph/skills.git",
+    "directory": "task-detection-thinking"
   },
-  "bugs": {
-    "url": "https://github.com/jason/task-detection-thinking/issues"
-  },
-  "homepage": "https://skills.sh/clawwizard/task-detection-thinking",
   "engines": {
     "node": ">=18.0.0"
   },
-  "files": [
-    "SKILL.md",
-    "README.md",
-    "scripts/",
-    "locales/"
-  ],
+  "files": ["SKILL.md", "README.md", "scripts/", "locales/"],
   "clawSkill": {
     "name": "task-detection-thinking",
     "displayName": {
